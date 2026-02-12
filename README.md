@@ -1,12 +1,60 @@
-<h1 align="center">Hi 👋, I'm Khushboo Kumari Yadav</h1>
-<h3 align="center">A passionate FullStack Web Developer</h3>
+# Hi, I'm Khushboo Kumari Yadav 👋
 
-- 💬 Ask me about **I am a fullStack web developer**
+🎓 B.Tech Computer Science & Engineering (Expected 2026)  
+📍 Bhopal, Madhya Pradesh  
+💻 Aspiring Full Stack Developer (MERN Stack)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 👩‍💻 About Me
 
+I am an enthusiastic Full Stack Developer with hands-on experience in building web applications using the MERN stack.  
+I enjoy developing clean, scalable, and efficient solutions by integrating frontend and backend systems.
+
+I am continuously improving my technical skills and exploring best practices in web development, APIs, and databases.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- JavaScript
+
+### Frontend Development
+- HTML5
+- CSS3
+- Tailwind CSS
+- React.js
+
+### Backend Development
+- Node.js
+- Express.js
+
+### Databases
+- MongoDB
+- MySQL
+
+### Tools & Technologies
+- Git
+- GitHub
+- Figma
+
+---
+
+## 💡 Soft Skills
+- Problem-Solving & Logical Thinking  
+- Teamwork & Collaboration  
+- Strong Willingness to Learn  
+- Adaptability to New Tools & Technologies  
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: **khushbooyadav7964@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/khushboo-yadav-11161430b](https://www.linkedin.com/in/khushboo-yadav-11161430b/)
+- 🐙 GitHub: [github.com/khushboo545567](https://github.com/khushboo545567)
+
+---
+
+⭐ *Always eager to learn, build, and grow as a developer.*
