@@ -38,6 +38,4 @@ I focus on writing clean, efficient code and continuously improving my problem-s
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
----
 
-⭐ *Always eager to learn, build, and grow as a developer.*
