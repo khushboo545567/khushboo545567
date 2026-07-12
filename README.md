@@ -7,22 +7,22 @@ extending that foundation into **AI Engineering** — using JavaScript-native to
 LLM-powered apps, RAG pipelines, and agents, instead of switching to a Python-first stack.
 I write clean, efficient code and care about turning what I learn into real, working projects.
 
-## 🌱 Currently Learning
+## Currently Learning
 - **AI Engineering:** LLM APIs & prompt engineering → embeddings & vector databases
   (Pinecone/Chroma) → RAG → agents (ReAct pattern) with **LangGraph.js**
 - **Cloud Engineering:** GCP (Vertex AI, Gemini APIs)
 
-## 🤝 Open To
+## Open To
 Internships, entry-level roles, and collaborative projects in Full Stack or AI Engineering
 
-## 💡 Goal
+## Goal
 To grow as a developer at the intersection of full-stack engineering and applied AI,
 and build products that make a real impact.
 
 ---
 
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 | **Domain** | **Technologies** |
 | :--- | :--- |
