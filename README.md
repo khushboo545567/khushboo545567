@@ -1,4 +1,4 @@
-# Hi, I'm Khushboo Kumari Yadav 👋
+# Hi, I'm Khushboo Yadav 👋
 
 ### Full Stack Developer (MERN) | AI Engineer | Cloud Enthusiast
 
