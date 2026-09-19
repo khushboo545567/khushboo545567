@@ -1,4 +1,4 @@
-# Hi, I'm Khushboo Yadav 👋
+# Hi, I'm Khushboo Yadav 
 
 ### Full Stack Developer (MERN) | AI Engineer | Cloud Enthusiast
 
@@ -10,7 +10,7 @@ I write clean, efficient code and care about turning what I learn into real, wor
 ## Currently Learning
 - **AI Engineering:** LLM APIs & prompt engineering → embeddings & vector databases
   (Pinecone/Chroma) → RAG → agents (ReAct pattern) with **LangGraph.js**
-- **Cloud Engineering:** GCP (Vertex AI, Gemini APIs)
+- **Cloud Engineering:** AWS, GCP (Vertex AI, Gemini APIs)
 
 ## Open To
 Internships, entry-level roles, and collaborative projects in Full Stack or AI Engineering
